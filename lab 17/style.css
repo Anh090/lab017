@@ -1,0 +1,27 @@
+.bg-img1 {
+    background-color: #000;
+    background-size: cover;
+    background-image: url(meo-anh-1.jpg) ;
+    height: 40rem;
+    width: 100%;
+}
+.bg-img2 {
+    background-color: #000;
+    background-size: cover;
+    background-image: url(banner.jpg);
+    height: 40rem;
+    width: 100%;
+}
+
+.bg-img3 {
+    background-color: #000;
+    background-size: cover;
+    background-image: url(default-avatar.webp);
+    height: 40rem;
+    width: 100%;
+}
+.container {
+    font-size: 18px;
+    margin: 30px;
+
+}
